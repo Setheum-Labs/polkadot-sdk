@@ -9,6 +9,6 @@
   "author": "Parity Technologies <admin@parity.io>",
   "license": "ISC",
   "dependencies": {
-    "@polkadot/util-crypto": "^6.5.1"
+    "@polkadot/util-crypto": "^6.11.1"
   }
 }
